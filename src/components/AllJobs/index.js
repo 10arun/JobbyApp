@@ -43,3 +43,5 @@ const salaryRangesList = [
     label: '40 LPA and above',
   },
 ]
+class AllJobs extends Component {}
+export default AllJobs
